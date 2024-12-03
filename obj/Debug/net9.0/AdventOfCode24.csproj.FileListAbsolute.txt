@@ -1,0 +1,15 @@
+/Users/evanhazzard/Library/CloudStorage/OneDrive-Personal/Documents/AdventOfCode24/bin/Debug/net9.0/AdventOfCode24
+/Users/evanhazzard/Library/CloudStorage/OneDrive-Personal/Documents/AdventOfCode24/bin/Debug/net9.0/AdventOfCode24.deps.json
+/Users/evanhazzard/Library/CloudStorage/OneDrive-Personal/Documents/AdventOfCode24/bin/Debug/net9.0/AdventOfCode24.runtimeconfig.json
+/Users/evanhazzard/Library/CloudStorage/OneDrive-Personal/Documents/AdventOfCode24/bin/Debug/net9.0/AdventOfCode24.dll
+/Users/evanhazzard/Library/CloudStorage/OneDrive-Personal/Documents/AdventOfCode24/bin/Debug/net9.0/AdventOfCode24.pdb
+/Users/evanhazzard/Library/CloudStorage/OneDrive-Personal/Documents/AdventOfCode24/obj/Debug/net9.0/AdventOfCode24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evanhazzard/Library/CloudStorage/OneDrive-Personal/Documents/AdventOfCode24/obj/Debug/net9.0/AdventOfCode24.AssemblyInfoInputs.cache
+/Users/evanhazzard/Library/CloudStorage/OneDrive-Personal/Documents/AdventOfCode24/obj/Debug/net9.0/AdventOfCode24.AssemblyInfo.cs
+/Users/evanhazzard/Library/CloudStorage/OneDrive-Personal/Documents/AdventOfCode24/obj/Debug/net9.0/AdventOfCode24.csproj.CoreCompileInputs.cache
+/Users/evanhazzard/Library/CloudStorage/OneDrive-Personal/Documents/AdventOfCode24/obj/Debug/net9.0/AdventOfCode24.sourcelink.json
+/Users/evanhazzard/Library/CloudStorage/OneDrive-Personal/Documents/AdventOfCode24/obj/Debug/net9.0/AdventOfCode24.dll
+/Users/evanhazzard/Library/CloudStorage/OneDrive-Personal/Documents/AdventOfCode24/obj/Debug/net9.0/refint/AdventOfCode24.dll
+/Users/evanhazzard/Library/CloudStorage/OneDrive-Personal/Documents/AdventOfCode24/obj/Debug/net9.0/AdventOfCode24.pdb
+/Users/evanhazzard/Library/CloudStorage/OneDrive-Personal/Documents/AdventOfCode24/obj/Debug/net9.0/AdventOfCode24.genruntimeconfig.cache
+/Users/evanhazzard/Library/CloudStorage/OneDrive-Personal/Documents/AdventOfCode24/obj/Debug/net9.0/ref/AdventOfCode24.dll
